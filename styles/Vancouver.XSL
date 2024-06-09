@@ -151,8 +151,8 @@
       </source>
     </importantfields>
     <citation>
-      <openbracket>(</openbracket>
-      <closebracket>)</closebracket>
+      <openbracket>[</openbracket>
+      <closebracket>]</closebracket>
       <separator>,</separator>
       <source type="Book">
         <format>{%RefOrder%}</format>
